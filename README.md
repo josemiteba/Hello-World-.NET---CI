@@ -1,4 +1,4 @@
-# ASP.NET Core getting started application
+# ASP.NET Core getting started application (CI-CD)
 The IBM Cloud Getting started tutorial for ASP.NET Core uses this sample application to provide you with a sample workflow for working with any .NET Core app on IBM Cloud; you set up a development environment, deploy an app locally and on IBM Cloud, and integrate a IBM Cloud database service in your app.
 
 The ASP.NET Core getting started application uses a [ClearDB MySQL service](https://console.bluemix.net/catalog/services/cleardb-managed-mysql-database) from IBM Cloud to add information to a database and then return information from a database to the UI. 
